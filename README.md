@@ -8,7 +8,7 @@ This project was built as part of **Future Interns – Full Stack Web Developmen
 
 ## 🌐 Live Demo
 
-[View Live Website](https://Fensar15.github.io/hope-sanitation-website/)
+[View Live Website](//fensar15.github.io/FUTURE_FS_Task3/)
 
 ---
 
